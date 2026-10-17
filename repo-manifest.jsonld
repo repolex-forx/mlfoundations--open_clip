@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mlfoundations/open_clip/commit/7067b350050dc409bfdfdbb3f0cc6c9a1651c000",
       "git:hexsha": "7067b350050dc409bfdfdbb3f0cc6c9a1651c000",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T15:34:23.347365+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mlfoundations/open_clip/commit/91f6cce16b7bee90b3b5d38ca305b5b3b67cc200",
